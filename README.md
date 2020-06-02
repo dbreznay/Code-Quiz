@@ -40,5 +40,4 @@ THEN I can save my initials and score
 
 The following animation demonstrates the application functionality:
 
-![code quiz](Code-Quiz/Assets/04-web-apis-homework-demo.gif)
-
+![04-web-apis-homework-demo](https://user-images.githubusercontent.com/60904436/83475505-1aad6200-a454-11ea-8bb9-9ed5b7a7e444.gif)
