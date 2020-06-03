@@ -1,5 +1,5 @@
 :root{
-    background-color: rgb(224, 233, 253);
+    background-color: rgb(194, 194, 194);
     }
     
     li{
@@ -50,7 +50,7 @@
       }
     
       button:hover{
-          box-shadow: 4px 3px 6px #4450bd;
+          box-shadow: 4px 3px 6px #1d1e22;
       }
     
     #startpage{
